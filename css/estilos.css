@@ -1,0 +1,10 @@
+body{
+    height: 100vh;
+    background: linear-gradient(rgb(0, 31, 172));
+}
+
+.relogio{
+    width: 500px;
+    background: white;
+    border-radius: 20px;
+}
