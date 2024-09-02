@@ -10,8 +10,8 @@ body{
 
 .relogio{
     width:500px;
-    background:rgba(172, 98, 241, 0.418);
-    border-radius:20px;
+    background:rgba(255, 255, 255, 0.404);
+    border-radius:8px;
     padding:20px;
     display: flex;
     align-items: center;
@@ -20,11 +20,11 @@ body{
 }
 
 .relogio div{
-    background: rgba(252, 252, 252, 0.336);
-    color:white;
+    background: rgba(252, 252, 252, 0.411);
+    color:rgba(2, 0, 0, 0.678);
     height:150px;
     width:150px;
-    border-radius:5px;
+    border-radius:8px;
     display: flex;
     align-items: center;
     justify-content: center;
